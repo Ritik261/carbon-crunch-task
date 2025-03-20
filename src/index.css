@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+.bg-beige-100 {
+  background-color: #FFF8E7;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.bg-world-map {
+  background-image: url('./assets/Earth.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
