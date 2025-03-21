@@ -1,6 +1,9 @@
 # Carbon Crunch Task
 
-This project is a React application built with Vite, utilizing GSAP for animations and ScrollTrigger for scroll-based animations. The application demonstrates various sections with smooth scrolling and animations.
+Live Link : https://carboncrunchtask.netlify.app/
+Live 
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 
 ## Installation
@@ -25,5 +28,5 @@ To get started with this project, follow these steps:
 To run the application locally, use the following command:
 
 ```sh
-npm run dev
+npm run dev 
 ```
